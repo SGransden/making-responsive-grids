@@ -8,9 +8,11 @@
 }
 
 @media only screen and (min-width: 25em) {
+
   .s-1 {
     width: 100%;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -22,6 +24,7 @@
   .m-1-2 {
     width: 50%;
   }
+
 }
 @media only screen and (min-width: 60em) {
 
